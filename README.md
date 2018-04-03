@@ -1,0 +1,2 @@
+# cvac-incidents
+I volunteer at the Chappaqua Volunteer Ambulance Corps. One of the tasks I sometimes do is download excel data from the website, and annotate it with various extra columns like time of day and type of call (cardiac, fall/injuries etc.). This was a tedious process that took around an hour to do by hand. This prototype automates downloading the data, annotating the table with new columns, and generating an new excel file with graphs.
