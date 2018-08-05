@@ -1,0 +1,9 @@
+node_modules
+datasets
+datasets/*
+cvac/__pycache__
+models
+models/*
+*.json
+*.ipynb
+pylintrc
